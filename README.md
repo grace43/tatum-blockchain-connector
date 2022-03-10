@@ -1,4 +1,6 @@
-# Tatum Blockchain Connector
+# DEPRECATED: Tatum Blockchain Connector
+This repository will no longer be maintained since all connectors have been moved to core-api.
+
 This repository is used as a place to find all connectors to the blockchains, which are integrated inside Tatum API.
 
 ## Structure
